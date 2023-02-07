@@ -1,0 +1,359 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .gown-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1450px;
+    height: 94px;
+  }
+  .bridestore {
+    position: absolute;
+    top: 27px;
+    left: 67px;
+    font-size: var(--font-size-3xl);
+    color: var(--color-white);
+  }
+  .gown-item {
+    position: absolute;
+    top: 65px;
+    left: 1022px;
+    width: 69px;
+    height: 4px;
+  }
+  .lehnga {
+    color: var(--color-white);
+  }
+  .gown-lehnga-saree-container {
+    position: absolute;
+    top: 40px;
+    left: 1022px;
+    font-size: var(--font-size-lg);
+    color: var(--color-snow-200);
+  }
+  .gown-inner {
+    position: absolute;
+    top: 1000.5px;
+    left: 1250.5px;
+    width: 175px;
+    height: 3px;
+  }
+  .accessories,
+  .contact-us {
+    position: absolute;
+    font-size: var(--font-size-2xl);
+  }
+  .contact-us {
+    top: 966px;
+    left: 1252.3px;
+    transform: rotate(0.51deg);
+    transform-origin: 0 0;
+  }
+  .accessories {
+    top: 664px;
+    left: 536px;
+  }
+  .line-icon {
+    position: absolute;
+    top: 691px;
+    left: 530.93px;
+    width: 173.07px;
+    height: 6.98px;
+  }
+  .choose-accessories-with,
+  .rectangle-icon {
+    position: absolute;
+    top: 701px;
+    left: 476px;
+  }
+  .rectangle-icon {
+    top: 745px;
+    left: 134px;
+    width: 180px;
+    height: 182.84px;
+    object-fit: cover;
+  }
+  .gown-child1,
+  .gown-child2,
+  .rectangle-div {
+    position: absolute;
+    top: 745px;
+    width: 180px;
+    height: 171.98px;
+  }
+  .rectangle-div {
+    left: 448px;
+    background-color: var(--color-gainsboro);
+  }
+  .gown-child1,
+  .gown-child2 {
+    left: 1076px;
+    object-fit: cover;
+  }
+  .gown-child2 {
+    top: 744px;
+    left: 450px;
+  }
+  .gown-child3,
+  .gown-child4,
+  .gown-child5 {
+    position: absolute;
+    left: 762px;
+    width: 180px;
+    height: 171.98px;
+  }
+  .gown-child3 {
+    top: 745px;
+    background-color: var(--color-gainsboro);
+  }
+  .gown-child4,
+  .gown-child5 {
+    top: 744px;
+    object-fit: cover;
+  }
+  .gown-child5 {
+    top: 171px;
+    left: 49px;
+    width: 398px;
+    height: 518px;
+  }
+  .earrings {
+    position: absolute;
+    top: 944px;
+    left: 180px;
+  }
+  .bracelets,
+  .footwear,
+  .handbags {
+    position: absolute;
+    top: 939px;
+    left: 505px;
+  }
+  .footwear,
+  .handbags {
+    left: 792px;
+  }
+  .footwear {
+    top: 928px;
+    left: 1103px;
+  }
+  .asymmetrical-gown {
+    position: absolute;
+    top: 171px;
+    left: 483px;
+    font-size: var(--font-size-2xl);
+    font-weight: 900;
+  }
+  .b,
+  .gown-child6 {
+    position: absolute;
+  }
+  .b {
+    top: 507px;
+    left: 755px;
+    font-size: var(--font-size-lg);
+  }
+  .gown-child6 {
+    top: 499px;
+    left: 486px;
+    background-color: #fdf9f9;
+    border: 3px solid var(--color-black);
+    box-sizing: border-box;
+    width: 173px;
+    height: 49px;
+  }
+  .ellipse-icon,
+  .gown-child7,
+  .gown-child8 {
+    position: absolute;
+    top: 611px;
+    left: 622px;
+    width: 12px;
+    height: 14.4px;
+  }
+  .gown-child7,
+  .gown-child8 {
+    left: 642px;
+  }
+  .gown-child8 {
+    left: 662px;
+  }
+  .gownasymmetrical-gown {
+    position: absolute;
+    top: 122px;
+    left: 53px;
+    font-family: var(--font-fauna-one);
+  }
+  .latest-collections,
+  .quantity,
+  .select-color,
+  .select-size {
+    position: absolute;
+    top: 196px;
+    left: 485px;
+    font-size: var(--font-size-lg);
+  }
+  .quantity,
+  .select-color,
+  .select-size {
+    top: 244px;
+    left: 486px;
+  }
+  .quantity,
+  .select-color {
+    top: 319px;
+  }
+  .quantity {
+    top: 403px;
+  }
+  .xll {
+    color: var(--color-rosybrown);
+  }
+  .m-s-x-container {
+    position: absolute;
+    top: 271px;
+    left: 489px;
+    font-size: var(--font-size-lg);
+  }
+  .line-div {
+    position: absolute;
+    top: 296.5px;
+    left: 486.5px;
+    border-top: 3px solid var(--color-black);
+    box-sizing: border-box;
+    width: 20px;
+    height: 3px;
+  }
+  .gown-child10,
+  .gown-child11,
+  .gown-child9 {
+    position: absolute;
+    left: 492px;
+    width: 26px;
+    height: 26px;
+  }
+  .gown-child9 {
+    top: 356px;
+    background-color: #bc1616;
+  }
+  .gown-child10,
+  .gown-child11 {
+    top: 440px;
+    background-color: var(--color-snow-100);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .gown-child11 {
+    left: 585px;
+  }
+  .gown-child12,
+  .gown-child13 {
+    position: absolute;
+    top: 356px;
+    width: 26px;
+    height: 26px;
+  }
+  .gown-child12 {
+    left: 576px;
+    background-color: #b9b6b6;
+  }
+  .gown-child13 {
+    left: 532px;
+    background-color: var(--color-rosybrown);
+  }
+  .b1,
+  .b2,
+  .div {
+    position: absolute;
+    font-size: var(--font-size-xl);
+  }
+  .div {
+    top: 439px;
+    left: 550px;
+    font-family: var(--font-fauna-one);
+  }
+  .b1,
+  .b2 {
+    top: 430px;
+    left: 497px;
+  }
+  .b2 {
+    top: 435px;
+    left: 592px;
+    font-size: var(--font-size-2xl);
+  }
+  .about,
+  .add-in-bag {
+    position: absolute;
+    top: 512px;
+    left: 510px;
+    font-weight: 900;
+  }
+  .about {
+    top: 235px;
+    left: 906px;
+  }
+  .one-of-a {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .trap-asymmetrical-pleated {
+    margin: 0;
+  }
+  .one-of-a-container {
+    position: absolute;
+    top: 271px;
+    left: 906px;
+  }
+  .gown-child14,
+  .gown-child15,
+  .gown-child16 {
+    position: absolute;
+    top: 406px;
+    left: 912px;
+    background-color: var(--color-gainsboro);
+    width: 134px;
+    height: 119px;
+  }
+  .gown-child15,
+  .gown-child16 {
+    left: 1070px;
+  }
+  .gown-child16 {
+    left: 1228px;
+  }
+  .gown-child17,
+  .gown-child18,
+  .gown-child19 {
+    position: absolute;
+    top: 407px;
+    left: 912px;
+    width: 134px;
+    height: 119px;
+    object-fit: cover;
+  }
+  .gown-child18,
+  .gown-child19 {
+    left: 1070px;
+  }
+  .gown-child19 {
+    top: 404px;
+    left: 1228px;
+  }
+  .gown {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-cinzel);
+  }
+  

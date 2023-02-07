@@ -1,0 +1,21 @@
+:root {
+    /* fonts */
+    --font-cinzel: Cinzel;
+    --font-fauna-one: "Fauna One";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-lg: 20px;
+    --font-size-xl: 22px;
+    --font-size-2xl: 25px;
+    --font-size-3xl: 30px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro: #d9d9d9;
+    --color-black: #000;
+    --color-rosybrown: #b78f8f;
+    --color-snow-100: #fefbfb;
+    --color-snow-200: #fbf2f2;
+  }
+  

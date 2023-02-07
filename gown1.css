@@ -1,0 +1,464 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .gown-child20 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1450px;
+    height: 94px;
+  }
+  .bridestore1 {
+    position: absolute;
+    top: 27px;
+    left: 67px;
+    font-size: var(--font-size-3xl);
+    color: var(--color-white);
+  }
+  .gown-child21 {
+    position: absolute;
+    top: 65px;
+    left: 1022px;
+    width: 69px;
+    height: 4px;
+  }
+  .lehnga1 {
+    color: var(--color-white);
+  }
+  .gown-lehnga-saree-container1 {
+    position: absolute;
+    top: 40px;
+    left: 1022px;
+    font-size: var(--font-size-lg);
+    color: var(--color-snow-200);
+  }
+  .vector-icon {
+    position: absolute;
+    top: 1000.5px;
+    left: 1250.5px;
+    width: 175px;
+    height: 3px;
+  }
+  .contact-us1 {
+    position: absolute;
+    top: 966px;
+    left: 1252.3px;
+    font-size: var(--font-size-2xl);
+    transform: rotate(0.51deg);
+    transform-origin: 0 0;
+  }
+  .gown-child22 {
+    position: absolute;
+    top: 112px;
+    left: 13px;
+    width: 318px;
+    height: 421px;
+    object-fit: cover;
+  }
+  .gown-child23 {
+    left: 377px;
+    background-color: var(--color-gainsboro);
+  }
+  .gown-child23,
+  .gown-child24,
+  .gown-child25 {
+    position: absolute;
+    top: 112px;
+    width: 318px;
+    height: 421px;
+  }
+  .gown-child24 {
+    left: 741px;
+    background-color: var(--color-gainsboro);
+  }
+  .gown-child25 {
+    left: 1105px;
+    object-fit: cover;
+  }
+  .accessories1 {
+    position: absolute;
+    top: 664px;
+    left: 536px;
+    font-size: var(--font-size-2xl);
+  }
+  .gown-child26 {
+    position: absolute;
+    top: 691px;
+    left: 530.93px;
+    width: 173.07px;
+    height: 6.98px;
+  }
+  .choose-accessories-with1,
+  .gown-child27 {
+    position: absolute;
+    top: 701px;
+    left: 476px;
+  }
+  .gown-child27 {
+    top: 741px;
+    left: 129px;
+    background-color: var(--color-gainsboro);
+    width: 202px;
+    height: 193px;
+  }
+  .gown-child28,
+  .gown-child29,
+  .gown-child30,
+  .gown-child31,
+  .gown-child32,
+  .gown-child33,
+  .gown-child34 {
+    position: absolute;
+    top: 737px;
+    left: 449px;
+    background-color: var(--color-gainsboro);
+    width: 202px;
+    height: 193px;
+  }
+  .gown-child29,
+  .gown-child30,
+  .gown-child31,
+  .gown-child32,
+  .gown-child33,
+  .gown-child34 {
+    left: 1062px;
+  }
+  .gown-child30,
+  .gown-child31,
+  .gown-child32,
+  .gown-child33,
+  .gown-child34 {
+    top: 741px;
+    left: 768px;
+  }
+  .gown-child31,
+  .gown-child32,
+  .gown-child33,
+  .gown-child34 {
+    left: 129px;
+    width: 101px;
+    height: 92px;
+  }
+  .gown-child32,
+  .gown-child33,
+  .gown-child34 {
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .gown-child33,
+  .gown-child34 {
+    top: 833px;
+    left: 230px;
+    height: 97px;
+  }
+  .gown-child34 {
+    top: 741px;
+    height: 92px;
+  }
+  .gown-child35,
+  .gown-child38 {
+    position: absolute;
+    left: 129px;
+    width: 101px;
+  }
+  .gown-child35 {
+    top: 833px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    height: 97px;
+  }
+  .gown-child38 {
+    top: 741px;
+    height: 92px;
+    object-fit: cover;
+  }
+  .gown-child39,
+  .gown-child41 {
+    position: absolute;
+    top: 737px;
+    height: 92px;
+  }
+  .gown-child39 {
+    left: 449px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 101px;
+  }
+  .gown-child41 {
+    left: 1063px;
+    width: 100px;
+    object-fit: cover;
+  }
+  .gown-child42,
+  .gown-child43,
+  .gown-child44,
+  .gown-child45 {
+    position: absolute;
+    top: 741px;
+    left: 769px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 101px;
+    height: 92px;
+  }
+  .gown-child43,
+  .gown-child44,
+  .gown-child45 {
+    left: 870px;
+  }
+  .gown-child44,
+  .gown-child45 {
+    top: 829px;
+    left: 769px;
+    width: 100px;
+    height: 105px;
+  }
+  .gown-child45 {
+    top: 833px;
+    left: 869px;
+    width: 102px;
+    height: 101px;
+  }
+  .gown-child46,
+  .gown-child47 {
+    position: absolute;
+    top: 829px;
+    height: 101px;
+  }
+  .gown-child46 {
+    left: 550px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 101px;
+  }
+  .gown-child47 {
+    left: 1161px;
+    width: 103px;
+    object-fit: cover;
+  }
+  .gown-child48,
+  .gown-child49 {
+    position: absolute;
+    top: 737px;
+    width: 101px;
+    height: 92px;
+  }
+  .gown-child48 {
+    left: 550px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .gown-child49 {
+    left: 1163px;
+    object-fit: cover;
+  }
+  .gown-child50,
+  .gown-child51 {
+    position: absolute;
+    top: 829px;
+    width: 101px;
+    height: 101px;
+  }
+  .gown-child50 {
+    left: 449px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .gown-child51 {
+    left: 1063px;
+    object-fit: cover;
+  }
+  .gown-child52,
+  .gown-child53,
+  .gown-child54,
+  .gown-child55,
+  .gown-child56 {
+    position: absolute;
+    top: 833px;
+    left: 230px;
+    width: 101px;
+    height: 97px;
+    object-fit: cover;
+  }
+  .gown-child53,
+  .gown-child54,
+  .gown-child55,
+  .gown-child56 {
+    top: 741px;
+    height: 92px;
+  }
+  .gown-child54,
+  .gown-child55,
+  .gown-child56 {
+    top: 833px;
+    left: 129px;
+    height: 97px;
+  }
+  .gown-child55,
+  .gown-child56 {
+    top: 112px;
+    left: 741px;
+    width: 318px;
+    height: 421px;
+  }
+  .gown-child56 {
+    left: 377px;
+  }
+  .gown-child57,
+  .gown-child58,
+  .gown-child59 {
+    position: absolute;
+    top: 737px;
+    left: 449px;
+    width: 101px;
+    height: 92px;
+    object-fit: cover;
+  }
+  .gown-child58,
+  .gown-child59 {
+    top: 741px;
+    left: 769px;
+  }
+  .gown-child59 {
+    top: 829px;
+    left: 449px;
+    height: 101px;
+  }
+  .gown-child60,
+  .gown-child61,
+  .gown-child62,
+  .gown-child63,
+  .gown-child64 {
+    position: absolute;
+    top: 833px;
+    left: 870px;
+    width: 101px;
+    height: 101px;
+    object-fit: cover;
+  }
+  .gown-child61,
+  .gown-child62,
+  .gown-child63,
+  .gown-child64 {
+    left: 769px;
+  }
+  .gown-child62,
+  .gown-child63,
+  .gown-child64 {
+    top: 829px;
+    left: 550px;
+  }
+  .gown-child63,
+  .gown-child64 {
+    top: 741px;
+    left: 870px;
+    height: 92px;
+  }
+  .gown-child64 {
+    top: 737px;
+    left: 550px;
+  }
+  .earrings1 {
+    position: absolute;
+    top: 944px;
+    left: 180px;
+  }
+  .b3,
+  .bracelets1,
+  .footwear1,
+  .handbags1 {
+    position: absolute;
+    top: 939px;
+    left: 505px;
+  }
+  .b3,
+  .footwear1,
+  .handbags1 {
+    left: 792px;
+  }
+  .b3,
+  .footwear1 {
+    top: 934px;
+    left: 1126px;
+  }
+  .b3 {
+    top: 543px;
+    left: 268px;
+    display: inline-block;
+    width: 35px;
+    height: 17px;
+  }
+  .b4,
+  .mermaid-gown,
+  .sheath-gown {
+    position: absolute;
+    top: 546px;
+    left: 24px;
+  }
+  .b4,
+  .sheath-gown {
+    top: 543px;
+    left: 742px;
+  }
+  .b4 {
+    top: 541px;
+    left: 1002px;
+  }
+  .asymmetrical-gown1 {
+    position: absolute;
+    top: 543px;
+    left: 376px;
+  }
+  .b5,
+  .b6,
+  .tiered-gown {
+    position: absolute;
+    top: 541px;
+    left: 639px;
+  }
+  .b6,
+  .tiered-gown {
+    left: 1114px;
+  }
+  .b6 {
+    top: 537px;
+    left: 1384px;
+  }
+  .gown-child65,
+  .gown-child66,
+  .gown-child67 {
+    position: absolute;
+    top: 611px;
+    left: 622px;
+    width: 12px;
+    height: 14.4px;
+  }
+  .gown-child66,
+  .gown-child67 {
+    left: 642px;
+  }
+  .gown-child67 {
+    left: 662px;
+  }
+  .gown1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-cinzel);
+  }
+  
